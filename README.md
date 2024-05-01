@@ -1,3 +1,5 @@
+This is a copy from the originally repo: https://github.com/ajcr/100-pandas-puzzles/tree/master
+
 # 100 pandas puzzles
 
 ### [Puzzles notebook](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles.ipynb)
